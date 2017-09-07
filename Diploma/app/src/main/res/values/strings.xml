@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Diplom</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="clothes">Одежда</string>
+    <string name="food">Продукты питания</string>
+    <string name="sport_and_rest">Спорт и отдых</string>
+    <string name="beauty_and_health">Красота и здоровье</string>
+    <string name="technique">Техника</string>
+    <string name="training_and_courses">Обучение и курсы</string>
+    <string name="cafe_and_restaurants">Кафе и рестораны</string>
+    <string name="construction_materials">Строительные материалы</string>
+    <string name="parties_shows_concerts">Вечеринки, шоу, концерты</string>
+</resources>

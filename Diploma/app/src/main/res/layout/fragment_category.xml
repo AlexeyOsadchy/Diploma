@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView_cafe_and_restaurants"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:clickable="true"
+            android:fitsSystemWindows="false"
+            android:gravity="fill_vertical"
+            android:text="@string/cafe_and_restaurants"
+            android:textColor="@color/colorPrimary"
+            android:textSize="26sp"/>
+
+        <View
+            android:layout_width="wrap_content"
+            android:background="@drawable/separator"
+            android:layout_height="1dp" />
+
+        <TextView
+            android:id="@+id/textView_food"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:clickable="true"
+            android:fitsSystemWindows="false"
+            android:gravity="fill_vertical"
+            android:text="@string/food"
+            android:textColor="@color/colorPrimary"
+            android:textSize="26sp"/>
+
+        <View
+            android:layout_width="wrap_content"
+            android:background="@drawable/separator"
+            android:layout_height="1dp" />
+
+        <TextView
+            android:id="@+id/textView_sport_and_rest"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:clickable="true"
+            android:fitsSystemWindows="false"
+            android:gravity="fill_vertical"
+            android:text="@string/sport_and_rest"
+            android:textColor="@color/colorPrimary"
+            android:textSize="26sp"/>
+
+        <View
+            android:layout_width="wrap_content"
+            android:background="@drawable/separator"
+            android:layout_height="1dp" />
+
+        <TextView
+            android:id="@+id/textView_technique"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:clickable="true"
+            android:fitsSystemWindows="false"
+            android:gravity="fill_vertical"
+            android:text="@string/technique"
+            android:textColor="@color/colorPrimary"
+            android:textSize="26sp"/>
+
+        <View
+            android:layout_width="wrap_content"
+            android:background="@drawable/separator"
+            android:layout_height="1dp" />
+
+        <TextView
+            android:id="@+id/textView_clothes"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:clickable="true"
+            android:fitsSystemWindows="false"
+            android:gravity="fill_vertical"
+            android:text="@string/clothes"
+            android:textColor="@color/colorPrimary"
+            android:textSize="26sp"/>
+
+        <View
+            android:layout_width="wrap_content"
+            android:background="@drawable/separator"
+            android:layout_height="1dp" />
+
+        <TextView
+            android:id="@+id/textView_beauty_and_health"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:clickable="true"
+            android:fitsSystemWindows="false"
+            android:gravity="fill_vertical"
+            android:text="@string/beauty_and_health"
+            android:textColor="@color/colorPrimary"
+            android:textSize="26sp"/>
+
+        <View
+            android:layout_width="wrap_content"
+            android:background="@drawable/separator"
+            android:layout_height="1dp" />
+
+        <TextView
+            android:id="@+id/textView_construction_materials"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:clickable="true"
+            android:fitsSystemWindows="false"
+            android:gravity="fill_vertical"
+            android:text="@string/construction_materials"
+            android:textColor="@color/colorPrimary"
+            android:textSize="26sp"/>
+
+        <View
+            android:layout_width="wrap_content"
+            android:background="@drawable/separator"
+            android:layout_height="1dp" />
+
+        <TextView
+            android:id="@+id/textView_parties_shows_concerts"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:clickable="true"
+            android:fitsSystemWindows="false"
+            android:gravity="fill_vertical"
+            android:text="@string/parties_shows_concerts"
+            android:textColor="@color/colorPrimary"
+            android:textSize="26sp"/>
+    </LinearLayout>
+</ScrollView>
